@@ -1,0 +1,30 @@
+.heading
+{
+    margin: 0px;
+    font-size: 23px;
+    box-shadow: 5px 5px 5px seagreen;
+    width: 100%;
+}
+.note
+{
+    color: slateblue;
+    font-size: 15px;
+}
+.copyright_footer
+{
+    float: none;
+    width: 100%;
+    position: fixed;
+    color: teal;
+    background-color: plum;
+    line-height: 3;
+    bottom: 0;
+    text-align: center;
+    box-shadow:5px 5px 5px teal;
+}
+canvas
+{
+    box-shadow:5px 5px 5px dimgray;
+    border-radius: 20px;
+    border:5px solid dimgray;
+}
